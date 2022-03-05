@@ -1,6 +1,21 @@
-# Vue 3 + Vite
+# A simple to-do list based on Vue.js and Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+
+## Run with dev server
+1. Clone this repository
+2. `npm install`
+3. `npm run dev`
+
+## Demo
+
+### Create action items
+![create action items](./docs/create.gif)
+
+### Update action items
+![update action items](./docs/edit.gif)
+
+### Delete action items
+![delete action items](./docs/delete.gif)
 
 ## Recommended IDE Setup
 
